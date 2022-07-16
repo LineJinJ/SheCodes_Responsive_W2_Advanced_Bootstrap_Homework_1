@@ -27,6 +27,7 @@ h2 {
 h3 {
   font-size: 24px;
   opacity: 0.7;
+  margin-top: 15 px;
 }
 
 p {
@@ -92,4 +93,18 @@ p {
 
 .container {
   padding: 100px 0 0;
+}
+
+.image-yoga {
+  margin-bottom: 20px;
+}
+
+.primary-link {
+  background: var(--primary-color);
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+  box-shadow: var(--box-shadow);
+  color: white;
 }
