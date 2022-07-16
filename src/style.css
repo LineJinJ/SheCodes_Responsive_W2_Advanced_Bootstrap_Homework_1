@@ -108,3 +108,7 @@ p {
   box-shadow: var(--box-shadow);
   color: white;
 }
+
+.image-yoghurt {
+  margin-bottom: 20px;
+}
