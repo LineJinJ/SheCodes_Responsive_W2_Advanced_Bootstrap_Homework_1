@@ -112,3 +112,8 @@ p {
 .image-yoghurt {
   margin-bottom: 20px;
 }
+
+.all-three-images {
+  display: flex;
+  flex-wrap: wrap;
+}
